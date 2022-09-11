@@ -25,3 +25,11 @@ h1{
 .alignRight{
     text-align: right;
 }
+
+.white{
+    color: white;
+}
+
+.blackBackground{
+    background-color: black;
+}
